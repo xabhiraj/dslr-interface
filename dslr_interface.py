@@ -1,7 +1,3 @@
-#Next steps:
-#1. Figure out image piping.
-#2. Change to python code instead of CLI
-
 from pithy import *
 from flask import Flask, redirect, request, render_template
 import subprocess
